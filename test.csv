@@ -1,0 +1,4 @@
+time,task,cycle
+Tue Aug 31 11:33:17 2021,softmax,289
+Tue Aug 31 11:33:29 2021,cast,659
+Tue Aug 31 11:33:40 2021,subtract,300
